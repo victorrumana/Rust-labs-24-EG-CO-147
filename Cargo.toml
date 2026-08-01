@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "lab1/exercises",
+    "lab2/exercises",
+    "lab3/exercises",
+    "lab4/exercises",
+    "lab5/exercises",
+    "lab6/exercises",
+]
